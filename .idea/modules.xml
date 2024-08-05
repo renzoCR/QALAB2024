@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppArrays/AppArrays.iml" filepath="$PROJECT_DIR$/AppArrays/AppArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayMulti/ArrayMulti.iml" filepath="$PROJECT_DIR$/ArrayMulti/ArrayMulti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO_Game/POO_Game.iml" filepath="$PROJECT_DIR$/POO_Game/POO_Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bucleFor/bucleFor.iml" filepath="$PROJECT_DIR$/bucleFor/bucleFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/repositorio_Examen.iml" filepath="$PROJECT_DIR$/.idea/repositorio_Examen.iml" />
+    </modules>
+  </component>
+</project>
